@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgihan&label=Profile%20views&color=0e75b6&style=flat" alt="mrgihan" /> </p>
 
-- 🌱 I’m currently learning **MERN stack,Springboot**
-
+- 🌱 I’m currently learning at the **Sri Lanka Institute of Information Technology (SLIIT)/MERN stack, Springboot
+- 👀 I’m interested in Software Engineering, Data analysis and Networking 
+- 💞 I’m looking to collaborate on IT field Companies 
 - 📫 How to reach me **gihanpathirana84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
